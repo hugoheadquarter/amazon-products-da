@@ -57,16 +57,4 @@ Users can filter the data by:
 5. Pricing Analysis
 
 ## Development
-This app was developed using Streamlit, Pandas, and Plotly. It uses SQLite for data storage and retrieval.
-
-## Author
-Developed by Dylan Kim
-
-## License
-[Include your chosen license here]
-
-## Contributing
-[If you're open to contributions, include guidelines here]
-
-## Support
-For issues or questions, please [open an issue](https://github.com/yourusername/amazon-product-analysis/issues) on GitHub.
+This app was developed using Streamlit, Pandas, and Plotly. It uses SQLite for data storage and retrieval. 
